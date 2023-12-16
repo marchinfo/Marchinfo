@@ -1,14 +1,14 @@
-### Привет👋
+## Привет👋
 
 <div id="header" align="center">
   <img src="https://media3.giphy.com/media/11kEuHSQAXXiGQ/giphy.gif"/>
 </div>
 <div>
-  <img src="https://komarev.com/ghpvc/?username=marchinfo&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=marchinfo&style=flat-square&color=blue"/>
 </div>
 &#128187; <b>Обо себе : </b>
 <p>
-  Меня зовут Евгений и я разработчик игр на Unity. Мои проекты можно посмотреть на <a herf = "https://yandex.ru/games/developer?name=Forgotten"> Яндекс игры </a>, а так же в этом профиле. 
+  Меня зовут Евгений и я разработчик игр на Unity. Мои проекты можно посмотреть на [Яндекс игры](https://yandex.ru/games/developer?name=Forgotten) , а так же в этом профиле. 
 </p>
  &#128218; <b>Мои навыки :</b>
  <p>
